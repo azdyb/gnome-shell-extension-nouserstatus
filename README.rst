@@ -10,7 +10,7 @@ What it looks like?
 
 Everybody loves screenshots, right?
 
-.. image:: nouserstatus.png
+.. image:: http://img577.imageshack.us/img577/5999/nouserstatus.png
    :alt: NoUserStatus
 
 
