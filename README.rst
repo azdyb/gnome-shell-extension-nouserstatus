@@ -25,7 +25,6 @@ As I couldn't find any real documentation for writing gnome-shell extensions, I 
 
 Instalation
 ===========
-
   
 The NoUserStatus@zdyb.tk directory should be copied to /usr/share/gnome-shell/extensions or ~/.local/share/gnome-shell/extensions/::
 
@@ -34,6 +33,13 @@ The NoUserStatus@zdyb.tk directory should be copied to /usr/share/gnome-shell/ex
 or::
 
   $ cp NoUserStatus\@zdyb.tk ~/.local/share/gnome-shell/extensions/
+
+
+If you're not using Fedora or want to use different icon, you have to edit line
+
+  const ICON_NAME = 'fedora-logo-icon';
+
+in file NoUserStatus@zdyb.tk/extension.js and replace "fedora-logo-icon" for icon name of your choice.
 
 
 License
