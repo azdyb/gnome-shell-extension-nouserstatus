@@ -1,0 +1,10 @@
+{ 
+   "shell-version": ["3.0"], 
+   "uuid": "NoUserStatus@zdyb.tk",
+   "name": "NoUserStatus",
+   "description": "Remove name and IM status options from Panel",
+   "url": "http://a.zdyb.tk",
+   "author": "Aleksander Zdyb",
+   "original-authors": "Finnbarr P. Murphy",
+   "localedir": "locale"
+}
